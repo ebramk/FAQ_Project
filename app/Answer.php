@@ -5,7 +5,7 @@ namespace App;
 use Illuminate\Database\Eloquent\Model;
 
 /**
- * App\Answer
+
  *
  * @property-read \App\Question $question
  * @property-read \App\User $user
